@@ -1,7 +1,7 @@
 import smtplib
 
 my_email = "nawal.nadeem@gmail.com" #sender's email
-password = "pkkv fdml trkn fmhu" # sender email's passowrd generated at Gmail app passwords page
+password = "**** **** **** ****" # sender email's passowrd generated at Gmail app passwords page
 connection = smtplib.SMTP("smtp.gmail.com")
 #smtp different for each email provider
 # hotmail --- smtp.live.com
